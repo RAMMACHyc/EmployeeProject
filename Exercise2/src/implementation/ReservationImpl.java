@@ -1,4 +1,6 @@
 package implementation;
+import interfaces.Ireservation;
 
-public class ReservationImpl {
+
+public class ReservationImpl implements Ireservation  {
 }
