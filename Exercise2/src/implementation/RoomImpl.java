@@ -1,4 +1,5 @@
 package implementation;
+import interfaces.Iroom;
 
-public class RoomImpl {
+public class RoomImpl implements Iroom {
 }
