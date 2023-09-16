@@ -1,4 +1,4 @@
 package implementation;
 
-public class CaregorieImpl {
+public class CaregorieImpl implements Icategorie{
 }
