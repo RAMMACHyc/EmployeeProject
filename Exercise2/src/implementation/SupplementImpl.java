@@ -1,4 +1,6 @@
 package implementation;
+import interfaces.Isupplement;
 
-public class SupplementImpl {
+
+public class SupplementImpl implements Isupplement {
 }
