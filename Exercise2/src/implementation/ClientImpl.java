@@ -1,4 +1,5 @@
 package implementation;
+import interfaces.Iclient;
 
-public class ClientImpl {
+public class ClientImpl implements Iclient {
 }
